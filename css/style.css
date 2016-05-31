@@ -1,14 +1,4 @@
-h2.intro{
-  color: red;
-
-}
-
-p.intro {
-  font-weight: bold;
-
-}
-
-img.intro {
-  border-style: solid;
-
+.highlight {
+  background-color: yellow;
+  border: solid 2px black;
 }
